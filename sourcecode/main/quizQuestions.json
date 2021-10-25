@@ -1,0 +1,62 @@
+[{
+    "question": "Question  1 : In JavaScript, Arrays are data type. State True or False ",
+    "options": [
+      { "number": 1, "value": "True" },
+      { "number": 2, "value": "False" }
+     
+    ],
+    "correctAnswer": 2 
+  },
+  {
+    "question": " Question  2: Which of the following is not JavaScript Data Types? ",
+    "options": [
+      { "number": 1, "value": "Undefined" },
+      { "number": 2, "value": " Boolean" },
+      { "number": 3, "value": " Number" }, 
+      { "number": 4, "value": "Float" }
+    ],
+    "correctAnswer": 4},
+    {
+    "question": "Question 3 : The (function) and (let) are known as: ",
+    "options": [
+      { "number": 1, "value": "Keywords" },
+      { "number": 2, "value": "Data types" },
+      { "number": 3, "value": "Declaration statements" },
+      { "number": 4, "value": "Prototypes" } 
+    ],
+    "correctAnswer": 3 
+  },
+  {
+    "question":
+      "Question  4 : Which built-in method returns the calling string value converted to upper case? ",
+    "options": [
+      { "number": 1, "value": " toUpperCase()" },
+      { "number": 2, "value": "toUpper()" },
+      { "number": 3, "value": "changeCase(case)" },
+      { "number": 4, "value": "None of the above." }  
+    ],
+    "correctAnswer": 1 
+  },
+  {
+    "question":
+      "Question  5 : JavaScript ignores? ",
+    "options": [
+      { "number": 1, "value": "Spaces" },
+      { "number": 2, "value": "Tabs" },
+      { "number": 3, "value": "Newlines" },
+      { "number": 4, "value": " All of the above" } 
+    ],
+    "correctAnswer": 4 
+  },
+  {
+    "question":
+      "Question 6 : How to get a particular value using the tagged name? ",
+    "options": [
+      { "number": 1, "value": "getElementbyID()" },
+      { "number": 2, "value": "getElementsbyName()" },
+      { "number": 3, "value": "getElementsbyTagName()" },
+      { "number": 4, "value": " getTagName()" } 
+    ],
+    "correctAnswer": 3
+  }
+  ]
